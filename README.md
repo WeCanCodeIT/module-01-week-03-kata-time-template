@@ -14,7 +14,7 @@ The functionality you must test out for FizzBuzzQix is as follows:
 - If multiple words are used, add them in order of Fizz, Buzz, then Qix. For example: 105 -> FizzBuzzQix
 
 ## Deadline and Grading Criteria
-The deadline for this project is Monday, September 28th, at 9:30am.
+Check Canvas for due date. 
 If the project is not complete or not pushed up to GitHub at that time it will be evaluated as an _Incomplete_ project.
 
 This is a Pass/Fail assignment, the assignment will be considered passing if it meets the following criteria:
