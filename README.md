@@ -24,6 +24,5 @@ This is a Pass/Fail assignment, the assignment will be considered passing if it 
 
 If your project doesn't meet these criteria at the deadline, it will be marked as _Needs Improvement_.
 
-If your project is evaluated as _Incomplete_ or _Needs Improvement_ we will let you know and give you feed back on what needs to change to help move it to a passing project.
-You will receive a new deadline of Friday, October 2nd, at 9:30 to re-submit your project by pushing changes to GitHub.  
+If your project is evaluated as _Incomplete_ or _Needs Improvement_ we will let you know and give you feed back on what needs to change to help move it to a passing project.  
 We will evaluate your project with the same criteria as the first submission and this evaluation will be the final grade for this assessment.
